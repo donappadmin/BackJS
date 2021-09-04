@@ -1,7 +1,7 @@
 'use strict';
-import { success } from './libs/response'; 
+const AWS = require('aws-sdk'); 
+const response = require('./libs/response'); 
 
-const AWS = require('aws-sdk');
 const dynamoDb = new AWS.DynamoDB.DocumentClient();
 
 const params = {
@@ -10,8 +10,5 @@ const params = {
 
 module.exports.GetMenu = async (event) => {
     const menuobject = await dynamoDb.scan(params).promise();
-    return {
-        statusCode: 200,
-        body: success(menuobject.Items),
-    };
+    return response.success(menuobject.Items);
 };
