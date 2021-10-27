@@ -25,7 +25,7 @@ provider:
   runtime: nodejs14.x
   lambdaHashingVersion: 20201221
   environment:
-    DYNAMODB_DON_TABLE: Don
+    DYNAMODB_DON_TABLE: Live.Don
     DYNAMODB_USER_TABLE: Users
   iamRoleStatements:
     - Effect: Allow

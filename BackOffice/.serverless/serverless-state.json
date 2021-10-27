@@ -9,7 +9,7 @@
       "runtime": "nodejs14.x",
       "lambdaHashingVersion": "20201221",
       "environment": {
-        "DYNAMODB_DON_TABLE": "Don",
+        "DYNAMODB_DON_TABLE": "Live.Don",
         "DYNAMODB_USER_TABLE": "Users"
       },
       "iamRoleStatements": [
@@ -23,7 +23,7 @@
             "dynamodb:UpdateItem",
             "dynamodb:DeleteItem"
           ],
-          "Resource": "arn:aws:dynamodb:us-east-1:372110839134:table/Don"
+          "Resource": "arn:aws:dynamodb:us-east-1:372110839134:table/Live.Don"
         },
         {
           "Effect": "Allow",
@@ -224,7 +224,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/backoffice/dev/1635129739169-2021-10-25T02:42:19.169Z/backoffice.zip"
+                "S3Key": "serverless/backoffice/dev/1635167261757-2021-10-25T13:07:41.757Z/backoffice.zip"
               },
               "Handler": "BackOffice/createdon/handler.createDon",
               "Runtime": "nodejs14.x",
@@ -233,7 +233,7 @@
               "Timeout": 6,
               "Environment": {
                 "Variables": {
-                  "DYNAMODB_DON_TABLE": "Don",
+                  "DYNAMODB_DON_TABLE": "Live.Don",
                   "DYNAMODB_USER_TABLE": "Users"
                 }
               },
@@ -255,7 +255,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/backoffice/dev/1635129739169-2021-10-25T02:42:19.169Z/backoffice.zip"
+                "S3Key": "serverless/backoffice/dev/1635167261757-2021-10-25T13:07:41.757Z/backoffice.zip"
               },
               "Handler": "BackOffice/GetRecolections/handler.getRecolections",
               "Runtime": "nodejs14.x",
@@ -264,7 +264,7 @@
               "Timeout": 6,
               "Environment": {
                 "Variables": {
-                  "DYNAMODB_DON_TABLE": "Don",
+                  "DYNAMODB_DON_TABLE": "Live.Don",
                   "DYNAMODB_USER_TABLE": "Users"
                 }
               },
@@ -279,24 +279,24 @@
               "GetDashrecolectionsLogGroup"
             ]
           },
-          "CreateDashdonLambdaVersionW7QISFWgSsDLmBxlQs4oH83cTwxp64KVW36oiipDHz8": {
+          "CreateDashdonLambdaVersionuIxEKl5yReK7WzZlPT3eEu4FnXuCgQLIkE0z0zCN5lA": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "CreateDashdonLambdaFunction"
               },
-              "CodeSha256": "+xrNaKrN6K1llUE19izc63eneRi05wxN8FqDGDl2kzc="
+              "CodeSha256": "4S7mAoXgqJIU4dp6Rli6LMjXfE336wgwj527HZnAu1g="
             }
           },
-          "GetDashrecolectionsLambdaVersionhi5ZwjJTdyYXKxkCaRo8rKowwLxGv9sRyqdB4Pvcww": {
+          "GetDashrecolectionsLambdaVersionh3SwqE2VubaM9KdyDplQQq0YE9zUuKaigs0DDOkg0o": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "GetDashrecolectionsLambdaFunction"
               },
-              "CodeSha256": "+xrNaKrN6K1llUE19izc63eneRi05wxN8FqDGDl2kzc="
+              "CodeSha256": "4S7mAoXgqJIU4dp6Rli6LMjXfE336wgwj527HZnAu1g="
             }
           },
           "ApiGatewayResourceApi": {
@@ -439,7 +439,7 @@
               "GetDashrecolectionsLambdaPermissionApiGateway"
             ]
           },
-          "ApiGatewayDeployment1635129737427": {
+          "ApiGatewayDeployment1635167259663": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -539,7 +539,7 @@
           "CreateDashdonLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "CreateDashdonLambdaVersionW7QISFWgSsDLmBxlQs4oH83cTwxp64KVW36oiipDHz8"
+              "Ref": "CreateDashdonLambdaVersionuIxEKl5yReK7WzZlPT3eEu4FnXuCgQLIkE0z0zCN5lA"
             },
             "Export": {
               "Name": "sls-backoffice-dev-CreateDashdonLambdaFunctionQualifiedArn"
@@ -548,7 +548,7 @@
           "GetDashrecolectionsLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "GetDashrecolectionsLambdaVersionhi5ZwjJTdyYXKxkCaRo8rKowwLxGv9sRyqdB4Pvcww"
+              "Ref": "GetDashrecolectionsLambdaVersionh3SwqE2VubaM9KdyDplQQq0YE9zUuKaigs0DDOkg0o"
             },
             "Export": {
               "Name": "sls-backoffice-dev-GetDashrecolectionsLambdaFunctionQualifiedArn"
@@ -685,7 +685,7 @@
         "timeout": 6,
         "runtime": "nodejs14.x",
         "vpc": {},
-        "versionLogicalId": "CreateDashdonLambdaVersionW7QISFWgSsDLmBxlQs4oH83cTwxp64KVW36oiipDHz8"
+        "versionLogicalId": "CreateDashdonLambdaVersionuIxEKl5yReK7WzZlPT3eEu4FnXuCgQLIkE0z0zCN5lA"
       },
       "get-recolections": {
         "handler": "BackOffice/GetRecolections/handler.getRecolections",
@@ -704,7 +704,7 @@
         "timeout": 6,
         "runtime": "nodejs14.x",
         "vpc": {},
-        "versionLogicalId": "GetDashrecolectionsLambdaVersionhi5ZwjJTdyYXKxkCaRo8rKowwLxGv9sRyqdB4Pvcww"
+        "versionLogicalId": "GetDashrecolectionsLambdaVersionh3SwqE2VubaM9KdyDplQQq0YE9zUuKaigs0DDOkg0o"
       }
     },
     "configValidationMode": "warn",
@@ -726,7 +726,7 @@
     "artifact": "C:\\Git\\BackJS\\BackOffice\\.serverless\\backoffice.zip"
   },
   "package": {
-    "artifactDirectoryName": "serverless/backoffice/dev/1635129739169-2021-10-25T02:42:19.169Z",
+    "artifactDirectoryName": "serverless/backoffice/dev/1635167261757-2021-10-25T13:07:41.757Z",
     "artifact": "backoffice.zip"
   }
 }
