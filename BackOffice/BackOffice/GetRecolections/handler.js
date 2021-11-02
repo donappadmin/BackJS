@@ -5,11 +5,15 @@ const utils = require('common');
 const dynamoDb = new AWS.DynamoDB.DocumentClient();
 
 module.exports.getRecolections = async (event) => {
+    const params = event.queryStringParameters ?? event.body ?? {};
+    const thresshold = params?.thresshold ?? 2400;
+    const date = params?.date ?? utils.dateNowDiff(new Date(),-5);
+    console.log(`Params to search : => ${thresshold} : ${date}`);
     var paramsThreeshold = {
         FilterExpression: '#recover > :limit',
         ExpressionAttributeNames: {'#recover' : 'ToRecover'},
         ExpressionAttributeValues: {
-            ':limit': 2400,
+            ':limit': thresshold,
         },
         TableName: process.env.DYNAMODB_DON_TABLE
     };
@@ -17,7 +21,7 @@ module.exports.getRecolections = async (event) => {
         FilterExpression: '#lastpickup > :lastdate',
         ExpressionAttributeNames: {'#lastpickup' : 'lastrecolection'},
         ExpressionAttributeValues: {
-            ':lastdate': utils.dateNowDiff(new Date(),-5),
+            ':lastdate': date,
         },
         TableName: process.env.DYNAMODB_DON_TABLE
     };
