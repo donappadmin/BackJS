@@ -46,6 +46,15 @@ provider:
         - dynamodb:UpdateItem
         - dynamodb:DeleteItem
       Resource: "arn:aws:dynamodb:us-east-1:372110839134:table/Users"
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+      Resource: "arn:aws:dynamodb:us-east-1:372110839134:table/Products"
   apiGateway:
     restApiId:
       "Fn::ImportValue": Gateway-restApiId
@@ -96,6 +105,8 @@ functions:
       - http:
           path: api/BackOffice/GetRecolections
           method: get
+  completeItems:
+    handler: BackOffice/menu/completeProducts.completeProducts
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events
 #    Check the event documentation for details

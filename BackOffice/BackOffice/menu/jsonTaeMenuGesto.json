@@ -1,0 +1,3137 @@
+[
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $10",
+      "idServicio": "115",
+      "idProducto": "577",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "10.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $100",
+      "idServicio": "115",
+      "idProducto": "299",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $15",
+      "idServicio": "115",
+      "idProducto": "7722",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "15.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $150",
+      "idServicio": "115",
+      "idProducto": "300",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $20",
+      "idServicio": "115",
+      "idProducto": "495",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $200",
+      "idServicio": "115",
+      "idProducto": "301",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $30",
+      "idServicio": "115",
+      "idProducto": "496",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $300",
+      "idServicio": "115",
+      "idProducto": "302",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $50",
+      "idServicio": "115",
+      "idProducto": "298",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $500",
+      "idServicio": "115",
+      "idProducto": "303",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "ESTIMADO CLIENTE EN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES  *611 DESDE SU IUSACELL O AL  01 800 333 0611 DESDE EL INTERIOR DE LA REPUBLICA."
+      },
+      "servicio": "AT-T / Iusacell",
+      "producto": "Recarga $70",
+      "idServicio": "115",
+      "idProducto": "578",
+      "idCatTipoServicio": "3",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "70.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $10",
+      "idServicio": "157",
+      "idProducto": "8019",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "10.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $100",
+      "idServicio": "157",
+      "idProducto": "527",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $120",
+      "idServicio": "157",
+      "idProducto": "8034",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "120.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $150",
+      "idServicio": "157",
+      "idProducto": "8037",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $20",
+      "idServicio": "157",
+      "idProducto": "524",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $200",
+      "idServicio": "157",
+      "idProducto": "528",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $250",
+      "idServicio": "157",
+      "idProducto": "529",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "250.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $30",
+      "idServicio": "157",
+      "idProducto": "525",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $40",
+      "idServicio": "157",
+      "idProducto": "8022",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "40.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $50",
+      "idServicio": "157",
+      "idProducto": "526",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $60",
+      "idServicio": "157",
+      "idProducto": "8025",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "60.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $70",
+      "idServicio": "157",
+      "idProducto": "8028",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "70.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes contactar a atencion a clientes en www.compartfon.com, marcando al *739 desde tu telefono, llamado al 800 800 6100 o por whatsapp al 33 1317 3286. "
+      },
+      "servicio": "ComparTfon",
+      "producto": "Recarga $80",
+      "idServicio": "157",
+      "idProducto": "8031",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "80.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclarcion con tu recarga comunicate desde tu telefono celular el *DIRI (3474) o desde otro equipo al 55 4163 4619. No olvides guardar tu comprobante de compra."
+      },
+      "servicio": "Diri",
+      "producto": "Plan Comparte",
+      "idServicio": "1446",
+      "idProducto": "9816",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "349.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclarcion con tu recarga comunicate desde tu telefono celular el *DIRI (3474) o desde otro equipo al 55 4163 4619. No olvides guardar tu comprobante de compra."
+      },
+      "servicio": "Diri",
+      "producto": "Plan Conoce",
+      "idServicio": "1446",
+      "idProducto": "9807",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "69.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclarcion con tu recarga comunicate desde tu telefono celular el *DIRI (3474) o desde otro equipo al 55 4163 4619. No olvides guardar tu comprobante de compra."
+      },
+      "servicio": "Diri",
+      "producto": "Plan Disfruta",
+      "idServicio": "1446",
+      "idProducto": "9813",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "249.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclarcion con tu recarga comunicate desde tu telefono celular el *DIRI (3474) o desde otro equipo al 55 4163 4619. No olvides guardar tu comprobante de compra."
+      },
+      "servicio": "Diri",
+      "producto": "Plan Explora",
+      "idServicio": "1446",
+      "idProducto": "9810",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "119.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclarcion con tu recarga comunicate desde tu telefono celular el *DIRI (3474) o desde otro equipo al 55 4163 4619. No olvides guardar tu comprobante de compra."
+      },
+      "servicio": "Diri",
+      "producto": "Plan Vuela",
+      "idServicio": "1446",
+      "idProducto": "9819",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "499.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $10",
+      "idServicio": "683",
+      "idProducto": "5639",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "10.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $100",
+      "idServicio": "683",
+      "idProducto": "6542",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $120",
+      "idServicio": "683",
+      "idProducto": "6545",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "120.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $20",
+      "idServicio": "683",
+      "idProducto": "5640",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $200",
+      "idServicio": "683",
+      "idProducto": "6548",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $250",
+      "idServicio": "683",
+      "idProducto": "6551",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "250.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $30",
+      "idServicio": "683",
+      "idProducto": "5641",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $300",
+      "idServicio": "683",
+      "idProducto": "6554",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $40",
+      "idServicio": "683",
+      "idProducto": "5642",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "40.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $400",
+      "idServicio": "683",
+      "idProducto": "6557",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "400.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $50",
+      "idServicio": "683",
+      "idProducto": "5643",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $500",
+      "idServicio": "683",
+      "idProducto": "6560",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $60",
+      "idServicio": "683",
+      "idProducto": "5644",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "60.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $70",
+      "idServicio": "683",
+      "idProducto": "5645",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "70.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para dudas o comentarios respecto a tu servicio accede a soporte.flashmobile.mx"
+      },
+      "servicio": "Flash Mobile",
+      "producto": "Recarga $80",
+      "idServicio": "683",
+      "idProducto": "6539",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "80.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu servicio marca desde tu linea Freedom Pop al *333 o desde cualquier otro telefono al 55 55 123 123."
+      },
+      "servicio": "FreedomPop",
+      "producto": "Recarga $100",
+      "idServicio": "1128",
+      "idProducto": "7899",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu servicio marca desde tu linea Freedom Pop al *333 o desde cualquier otro telefono al 55 55 123 123."
+      },
+      "servicio": "FreedomPop",
+      "producto": "Recarga $150",
+      "idServicio": "1128",
+      "idProducto": "7902",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu servicio marca desde tu linea Freedom Pop al *333 o desde cualquier otro telefono al 55 55 123 123."
+      },
+      "servicio": "FreedomPop",
+      "producto": "Recarga $200",
+      "idServicio": "1128",
+      "idProducto": "7905",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu servicio marca desde tu linea Freedom Pop al *333 o desde cualquier otro telefono al 55 55 123 123."
+      },
+      "servicio": "FreedomPop",
+      "producto": "Recarga $30",
+      "idServicio": "1128",
+      "idProducto": "7890",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu servicio marca desde tu linea Freedom Pop al *333 o desde cualquier otro telefono al 55 55 123 123."
+      },
+      "servicio": "FreedomPop",
+      "producto": "Recarga $50",
+      "idServicio": "1128",
+      "idProducto": "7893",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu servicio marca desde tu linea Freedom Pop al *333 o desde cualquier otro telefono al 55 55 123 123."
+      },
+      "servicio": "FreedomPop",
+      "producto": "Recarga $80",
+      "idServicio": "1128",
+      "idProducto": "7896",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "80.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion contacta a Gugacom por medio de su aplicacion movil o a traves de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Internet Fijo",
+      "producto": "Internet Avanzado (30dias 100GB 5MBPS)",
+      "idServicio": "1179",
+      "idProducto": "8184",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "399.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion contacta a Gugacom por medio de su aplicacion movil o a traves de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Internet Fijo",
+      "producto": "Internet Avanzado (30dias 120GB 10MBPS)",
+      "idServicio": "1179",
+      "idProducto": "8187",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "499.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion contacta a Gugacom por medio de su aplicacion movil o a traves de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Internet Fijo",
+      "producto": "Internet Basico (7dias 20GB 5MBPS)",
+      "idServicio": "1179",
+      "idProducto": "8178",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "89.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion contacta a Gugacom por medio de su aplicacion movil o a traves de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Internet Fijo",
+      "producto": "Internet Estandar (30dias 80GB 5MBPS)",
+      "idServicio": "1179",
+      "idProducto": "8181",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "299.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga, contacta a Gugacom a traves de la aplicacion movil o de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Telefonia Movil",
+      "producto": "Avanzado 8GB (30 dias)",
+      "idServicio": "1176",
+      "idProducto": "8172",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "149.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga, contacta a Gugacom a traves de la aplicacion movil o de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Telefonia Movil",
+      "producto": "Basico 5GB (30 dias)",
+      "idServicio": "1176",
+      "idProducto": "8169",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "99.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga, contacta a Gugacom a traves de la aplicacion movil o de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Telefonia Movil",
+      "producto": "Guga 10GB (15 dias)",
+      "idServicio": "1176",
+      "idProducto": "8163",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga, contacta a Gugacom a traves de la aplicacion movil o de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Telefonia Movil",
+      "producto": "Guga 20GB (30dias)",
+      "idServicio": "1176",
+      "idProducto": "8166",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "199.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga, contacta a Gugacom a traves de la aplicacion movil o de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Telefonia Movil",
+      "producto": "Guga 3GB (3 dias)",
+      "idServicio": "1176",
+      "idProducto": "8157",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga, contacta a Gugacom a traves de la aplicacion movil o de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Telefonia Movil",
+      "producto": "Guga 5GB (7 dias)",
+      "idServicio": "1176",
+      "idProducto": "8160",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga, contacta a Gugacom a traves de la aplicacion movil o de su sitio de Internet gugacom.com"
+      },
+      "servicio": "Gugacom Telefonia Movil",
+      "producto": "Todos Conectados 20GB (30 dias)",
+      "idServicio": "1176",
+      "idProducto": "8175",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "298.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes consultar tu saldo marcando desde Mi Movil al *727 o al 55 4440 2700. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "MiMovil",
+      "producto": "Plan $100 (30 dias 5000MB)",
+      "idServicio": "1386",
+      "idProducto": "9519",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes consultar tu saldo marcando desde Mi Movil al *727 o al 55 4440 2700. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "MiMovil",
+      "producto": "Plan $200 (30 dias MB ilimitados)",
+      "idServicio": "1386",
+      "idProducto": "9522",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes consultar tu saldo marcando desde Mi Movil al *727 o al 55 4440 2700. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "MiMovil",
+      "producto": "Plan $300 (30 dias MB ilimitados HotSpot)",
+      "idServicio": "1386",
+      "idProducto": "9525",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga puedes consultar tu saldo marcando desde Mi Movil al *727 o al 55 4440 2700. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "MiMovil",
+      "producto": "Plan $50 (7 dias 5000MB)",
+      "idServicio": "1386",
+      "idProducto": "9516",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $10",
+      "idServicio": "124",
+      "idProducto": "373",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "10.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $100",
+      "idServicio": "124",
+      "idProducto": "381",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $120",
+      "idServicio": "124",
+      "idProducto": "382",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "120.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $150",
+      "idServicio": "124",
+      "idProducto": "383",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $20",
+      "idServicio": "124",
+      "idProducto": "374",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $200",
+      "idServicio": "124",
+      "idProducto": "384",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $250",
+      "idServicio": "124",
+      "idProducto": "385",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "250.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $30",
+      "idServicio": "124",
+      "idProducto": "375",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $300",
+      "idServicio": "124",
+      "idProducto": "386",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $40",
+      "idServicio": "124",
+      "idProducto": "376",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "40.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $400",
+      "idServicio": "124",
+      "idProducto": "387",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "400.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $50",
+      "idServicio": "124",
+      "idProducto": "377",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $500",
+      "idServicio": "124",
+      "idProducto": "388",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $60",
+      "idServicio": "124",
+      "idProducto": "378",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "60.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $70",
+      "idServicio": "124",
+      "idProducto": "379",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "70.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Podras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800."
+      },
+      "servicio": "Movistar",
+      "producto": "Recarga $80",
+      "idServicio": "124",
+      "idProducto": "380",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "80.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPodras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800.\n\t\t\t\n\t\t\tConoce todos los beneficios de tu paquete en https://www.movistar.com.mx/productos-y-servicios/paquetes-prepago/conectados\n\t\t\t"
+      },
+      "servicio": "Movistar Paquetes Min y SMS ilimitados",
+      "producto": "Basico 1 dia (50Min + 50SMS + 15MB Nav + 200MB WhatsApp)",
+      "idServicio": "102",
+      "idProducto": "9378",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "10.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPodras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800.\n\t\t\t\n\t\t\tConoce todos los beneficios de tu paquete en https://www.movistar.com.mx/productos-y-servicios/paquetes-prepago/conectados\n\t\t\t"
+      },
+      "servicio": "Movistar Paquetes Min y SMS ilimitados",
+      "producto": "Conectado 15 dias (1.5GB Nav + RRSS ilimitados)",
+      "idServicio": "102",
+      "idProducto": "254",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPodras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800.\n\t\t\t\n\t\t\tConoce todos los beneficios de tu paquete en https://www.movistar.com.mx/productos-y-servicios/paquetes-prepago/conectados\n\t\t\t"
+      },
+      "servicio": "Movistar Paquetes Min y SMS ilimitados",
+      "producto": "Conectado 3 dias (300MB Nav + 200MB RRSS)",
+      "idServicio": "102",
+      "idProducto": "252",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPodras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800.\n\t\t\t\n\t\t\tConoce todos los beneficios de tu paquete en https://www.movistar.com.mx/productos-y-servicios/paquetes-prepago/conectados\n\t\t\t"
+      },
+      "servicio": "Movistar Paquetes Min y SMS ilimitados",
+      "producto": "Conectado 30 dias (3GB Nav + RRSS ilimitado + 1GB YouTube/Netflix)",
+      "idServicio": "102",
+      "idProducto": "255",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPodras consultar tu saldo Movistar enviando la palabra SALDO a la marcacion 777 o marca *SALDO (*72536) y escucha el detalle de tu saldo. En todos los casos recibiras un mensaje de texto con el detalle del saldo que tienes en ese momento, Para AtencionMovistarMX por WhatsApp al 561640800.\n\t\t\t\n\t\t\tConoce todos los beneficios de tu paquete en https://www.movistar.com.mx/productos-y-servicios/paquetes-prepago/conectados\n\t\t\t"
+      },
+      "servicio": "Movistar Paquetes Min y SMS ilimitados",
+      "producto": "Conectado 7 dias (600MB Nav + 1GB RRSS)",
+      "idServicio": "102",
+      "idProducto": "253",
+      "idCatTipoServicio": "1",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": ""
+      },
+      "servicio": "Netwey",
+      "producto": "Recarga Netwey",
+      "idServicio": "1161",
+      "idProducto": "8007",
+      "idCatTipoServicio": "5",
+      "tipoFront": "2",
+      "hasDigitoVerificador": "false",
+      "precio": "0.0",
+      "showAyuda": "false",
+      "tipoReferencia": "b"
+   },
+   {
+      "legend": {
+         "cdata": ""
+      },
+      "servicio": "Netwey",
+      "producto": "Servicios Disponibles",
+      "idServicio": "1161",
+      "idProducto": "8010",
+      "idCatTipoServicio": "5",
+      "tipoFront": "5",
+      "hasDigitoVerificador": "false",
+      "precio": "0.0",
+      "showAyuda": "false",
+      "tipoReferencia": "b"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245. No olvides conservar tu comprobante de pago."
+      },
+      "servicio": "Netwey Internet Prepagado",
+      "producto": "Mensual Basico (90GB - 30 dias)",
+      "idServicio": "126",
+      "idProducto": "7965",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "325.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245. No olvides conservar tu comprobante de pago."
+      },
+      "servicio": "Netwey Internet Prepagado",
+      "producto": "Mensual Gigante (140GB - 30 dias)",
+      "idServicio": "126",
+      "idProducto": "7971",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "449.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245. No olvides conservar tu comprobante de pago."
+      },
+      "servicio": "Netwey Internet Prepagado",
+      "producto": "Mensual Grande (120GB - 30 dias)",
+      "idServicio": "126",
+      "idProducto": "7968",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "399.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245. No olvides conservar tu comprobante de pago."
+      },
+      "servicio": "Netwey Internet Prepagado",
+      "producto": "Semanal (20GB - 7 dias)",
+      "idServicio": "126",
+      "idProducto": "390",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "89.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245. No olvides conservar tu comprobante de pago."
+      },
+      "servicio": "Netwey Internet Prepagado",
+      "producto": "Semanal Grande (30GB - 7 dias)",
+      "idServicio": "126",
+      "idProducto": "7962",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "119.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245, por whatsapp al 5539511408 o al correo atencion_clientes@netwey.com.mx. No olvides consevar tu comprobante de pago."
+      },
+      "servicio": "Netwey Movil",
+      "producto": "Paquete $100 (30 dias - 5GB - 1500min)",
+      "idServicio": "88",
+      "idProducto": "8001",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245, por whatsapp al 5539511408 o al correo atencion_clientes@netwey.com.mx. No olvides consevar tu comprobante de pago."
+      },
+      "servicio": "Netwey Movil",
+      "producto": "Paquete $200 (30 dias - 20GB - 1500min)",
+      "idServicio": "88",
+      "idProducto": "8004",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245, por whatsapp al 5539511408 o al correo atencion_clientes@netwey.com.mx. No olvides consevar tu comprobante de pago."
+      },
+      "servicio": "Netwey Movil",
+      "producto": "Paquete $30 (3 dias - 2GB - 250min)",
+      "idServicio": "88",
+      "idProducto": "626",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate al servicio de atencion a clientes de NETWEY al telefono 5547421245, por whatsapp al 5539511408 o al correo atencion_clientes@netwey.com.mx. No olvides consevar tu comprobante de pago."
+      },
+      "servicio": "Netwey Movil",
+      "producto": "Paquete $50 (7 dias - 5GB - 500min)",
+      "idServicio": "88",
+      "idProducto": "218",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $100",
+      "idServicio": "78",
+      "idProducto": "223",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $125",
+      "idServicio": "78",
+      "idProducto": "224",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "125.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $150",
+      "idServicio": "78",
+      "idProducto": "225",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $200",
+      "idServicio": "78",
+      "idProducto": "226",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $30",
+      "idServicio": "78",
+      "idProducto": "208",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $300",
+      "idServicio": "78",
+      "idProducto": "7429",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $350",
+      "idServicio": "78",
+      "idProducto": "7432",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "350.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $40",
+      "idServicio": "78",
+      "idProducto": "219",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "40.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $50",
+      "idServicio": "78",
+      "idProducto": "220",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $60",
+      "idServicio": "78",
+      "idProducto": "221",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "60.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Gracias por tu recarga de Oui Movile, para cualquier duda o aclaracion con tu recarga por favor llama al 55 5727 0000 y proporciona el nuemro de Autorizacion de tu recarga."
+      },
+      "servicio": "Oui Movil",
+      "producto": "Recarga $80",
+      "idServicio": "78",
+      "idProducto": "222",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "80.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate desde tu telefono celular al *PILLO (74556), o de cualquier otra linea al 55 4161 3589. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "Pillofon",
+      "producto": "Plan Capo",
+      "idServicio": "1449",
+      "idProducto": "9843",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "149.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate desde tu telefono celular al *PILLO (74556), o de cualquier otra linea al 55 4161 3589. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "Pillofon",
+      "producto": "Plan Chido",
+      "idServicio": "1449",
+      "idProducto": "9846",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "199.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate desde tu telefono celular al *PILLO (74556), o de cualquier otra linea al 55 4161 3589. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "Pillofon",
+      "producto": "Plan Crack",
+      "idServicio": "1449",
+      "idProducto": "9849",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "299.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate desde tu telefono celular al *PILLO (74556), o de cualquier otra linea al 55 4161 3589. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "Pillofon",
+      "producto": "Plan OLV",
+      "idServicio": "1449",
+      "idProducto": "9855",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "599.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate desde tu telefono celular al *PILLO (74556), o de cualquier otra linea al 55 4161 3589. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "Pillofon",
+      "producto": "Plan Perro",
+      "idServicio": "1449",
+      "idProducto": "9852",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "399.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga comunicate desde tu telefono celular al *PILLO (74556), o de cualquier otra linea al 55 4161 3589. No olvides conservar tu comprobante de compra."
+      },
+      "servicio": "Pillofon",
+      "producto": "Recarga Rifate",
+      "idServicio": "1449",
+      "idProducto": "9840",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "79.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan $100",
+      "idServicio": "69",
+      "idProducto": "6614",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan $150",
+      "idServicio": "69",
+      "idProducto": "6617",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan $20",
+      "idServicio": "69",
+      "idProducto": "198",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan $300",
+      "idServicio": "69",
+      "idProducto": "6620",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan $50",
+      "idServicio": "69",
+      "idProducto": "6611",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan $500",
+      "idServicio": "69",
+      "idProducto": "6623",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan 1000MB",
+      "idServicio": "69",
+      "idProducto": "6635",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "120.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan 200MB",
+      "idServicio": "69",
+      "idProducto": "6626",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "40.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan 450MB",
+      "idServicio": "69",
+      "idProducto": "6629",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "60.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tPuede ponerse en contacto con Simpati a traves de un sistema de tickets en soporte.simpati.mobi/.\n\t\t\tNo olvide guardar su comprobante de pago.\n\t\t\t"
+      },
+      "servicio": "Simpati",
+      "producto": "Plan 700MB",
+      "idServicio": "69",
+      "idProducto": "6632",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "90.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta tu saldo marcando al *321; o en la opcion 1 del Menu de Atencion a Clientes en los numeros *5050 y 55 4750 5050, y a traves de la aplicacion “Mi Soriana Movil'."
+      },
+      "servicio": "Soriana Movil",
+      "producto": "Mas Ahorro 15 dias",
+      "idServicio": "1458",
+      "idProducto": "9882",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "90.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta tu saldo marcando al *321; o en la opcion 1 del Menu de Atencion a Clientes en los numeros *5050 y 55 4750 5050, y a traves de la aplicacion “Mi Soriana Movil'."
+      },
+      "servicio": "Soriana Movil",
+      "producto": "Mas Ahorro 26 dias",
+      "idServicio": "1458",
+      "idProducto": "9885",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "125.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta tu saldo marcando al *321; o en la opcion 1 del Menu de Atencion a Clientes en los numeros *5050 y 55 4750 5050, y a traves de la aplicacion “Mi Soriana Movil'."
+      },
+      "servicio": "Soriana Movil",
+      "producto": "Mas Ahorro 3 dias",
+      "idServicio": "1458",
+      "idProducto": "9876",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "27.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta tu saldo marcando al *321; o en la opcion 1 del Menu de Atencion a Clientes en los numeros *5050 y 55 4750 5050, y a traves de la aplicacion “Mi Soriana Movil'."
+      },
+      "servicio": "Soriana Movil",
+      "producto": "Mas Ahorro 30 dias",
+      "idServicio": "1458",
+      "idProducto": "9888",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta tu saldo marcando al *321; o en la opcion 1 del Menu de Atencion a Clientes en los numeros *5050 y 55 4750 5050, y a traves de la aplicacion “Mi Soriana Movil'."
+      },
+      "servicio": "Soriana Movil",
+      "producto": "Mas Ahorro 30 dias Plus",
+      "idServicio": "1458",
+      "idProducto": "9891",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "225.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta tu saldo marcando al *321; o en la opcion 1 del Menu de Atencion a Clientes en los numeros *5050 y 55 4750 5050, y a traves de la aplicacion “Mi Soriana Movil'."
+      },
+      "servicio": "Soriana Movil",
+      "producto": "Mas Ahorro 7 dias",
+      "idServicio": "1458",
+      "idProducto": "9879",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "45.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $10",
+      "idServicio": "133",
+      "idProducto": "582",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "10.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $100",
+      "idServicio": "133",
+      "idProducto": "406",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $150",
+      "idServicio": "133",
+      "idProducto": "407",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $20",
+      "idServicio": "133",
+      "idProducto": "403",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $200",
+      "idServicio": "133",
+      "idProducto": "408",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $30",
+      "idServicio": "133",
+      "idProducto": "404",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $300",
+      "idServicio": "133",
+      "idProducto": "409",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $50",
+      "idServicio": "133",
+      "idProducto": "405",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $500",
+      "idServicio": "133",
+      "idProducto": "410",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel",
+      "producto": "Recarga $80",
+      "idServicio": "133",
+      "idProducto": "7222",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "80.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquete de SMS",
+      "producto": "Paquete 100 SMS",
+      "idServicio": "161",
+      "idProducto": "562",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "29.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquete de SMS",
+      "producto": "Paquete 1000 SMS",
+      "idServicio": "161",
+      "idProducto": "565",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "99.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquete de SMS",
+      "producto": "Paquete 250 SMS",
+      "idServicio": "161",
+      "idProducto": "563",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "49.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquete de SMS",
+      "producto": "Paquete 500 SMS",
+      "idServicio": "161",
+      "idProducto": "564",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "59.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $100",
+      "idServicio": "159",
+      "idProducto": "640",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $150",
+      "idServicio": "159",
+      "idProducto": "641",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $20",
+      "idServicio": "159",
+      "idProducto": "5760",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $200",
+      "idServicio": "159",
+      "idProducto": "642",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $30",
+      "idServicio": "159",
+      "idProducto": "638",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $300",
+      "idServicio": "159",
+      "idProducto": "643",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $50",
+      "idServicio": "159",
+      "idProducto": "639",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $500",
+      "idServicio": "159",
+      "idProducto": "644",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Consulta el detalle de tu saldo y paquetes por medio del Menu de Servicios Telcel marcando al *133#, o envia un SMS con la palabra 'Saldo' al 333. En caso de presentar un problema con tu recarga marca al *321 desde tu Telcel y proporciona el numero de Autorizacion de tu recarga."
+      },
+      "servicio": "Telcel Paquetes Amigo",
+      "producto": "Amigo Sin Limite $80",
+      "idServicio": "159",
+      "idProducto": "7219",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "80.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 100",
+      "idServicio": "160",
+      "idProducto": "545",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 150",
+      "idServicio": "160",
+      "idProducto": "546",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 20",
+      "idServicio": "160",
+      "idProducto": "543",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 200",
+      "idServicio": "160",
+      "idProducto": "548",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 30",
+      "idServicio": "160",
+      "idProducto": "7033",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 300",
+      "idServicio": "160",
+      "idProducto": "547",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 50",
+      "idServicio": "160",
+      "idProducto": "544",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "\n\t\t\tESTIMADO CLIENTE RECUERDA QUE PUEDES CONSULTAR TU SALDO SIN COSTO MARCANDO  AL *133# DESDE TU TELCEL.\n\t\t\t\n\t\t\tEN CASO DE PRESENTARSE ALGUN PROBLEMA CON SU COMPRA DE TIEMPO AIRE FAVOR DE COMUNICARSE AL NUMERO DE ATENCION A CLIENTES *264 DESDE SU TELCEL O AL  01800-710-5687 DESDE EL INTERIOR DE LA REPUBLICA.\n\t\t\t"
+      },
+      "servicio": "Telcel Paquetes de Datos",
+      "producto": "Internet Amigo 500",
+      "idServicio": "160",
+      "idProducto": "552",
+      "idCatTipoServicio": "2",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $10",
+      "idServicio": "116",
+      "idProducto": "579",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "10.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $100",
+      "idServicio": "116",
+      "idProducto": "307",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $15",
+      "idServicio": "116",
+      "idProducto": "7725",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "15.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $150",
+      "idServicio": "116",
+      "idProducto": "308",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $20",
+      "idServicio": "116",
+      "idProducto": "499",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $200",
+      "idServicio": "116",
+      "idProducto": "309",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $30",
+      "idServicio": "116",
+      "idProducto": "500",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $300",
+      "idServicio": "116",
+      "idProducto": "310",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $50",
+      "idServicio": "116",
+      "idProducto": "306",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $500",
+      "idServicio": "116",
+      "idProducto": "311",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Estimado cliente, en caso de presentar algun problema con su recarga de tiempo aire favor de comunicarse al numero de atencion a clientes marcando *611 desde su Unefon, llamando al 800 333 0611 o mediante whatsapp al 55 7237 5455."
+      },
+      "servicio": "Unefon",
+      "producto": "Recarga $70",
+      "idServicio": "116",
+      "idProducto": "580",
+      "idCatTipoServicio": "4",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "70.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Internet en Casa",
+      "producto": "+Valor 10MB (40MB por 7dias)",
+      "idServicio": "1263",
+      "idProducto": "8664",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "99.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Internet en Casa",
+      "producto": "+Valor 10MB (90GB por 30dias)",
+      "idServicio": "1263",
+      "idProducto": "8667",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "349.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Internet en Casa",
+      "producto": "+Valor 20MB (100GB por 30dias)",
+      "idServicio": "1263",
+      "idProducto": "8670",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "399.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Internet en Casa",
+      "producto": "+Valor 5MB (20GB por 7dias)",
+      "idServicio": "1263",
+      "idProducto": "8661",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "75.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Internet en Casa",
+      "producto": "+Valor 5MB (90Gb por 30dias)",
+      "idServicio": "1263",
+      "idProducto": "8679",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "299.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Internet en Casa",
+      "producto": "Adicional 10GB (Vig y Vel del Paq Activo) ",
+      "idServicio": "1263",
+      "idProducto": "8676",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "49.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Internet en Casa",
+      "producto": "Adicional 5GB (Vig y Vel del Paq Activo)",
+      "idServicio": "1263",
+      "idProducto": "8673",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "25.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx"
+      },
+      "servicio": "Valor Internet Movil",
+      "producto": "+Valor Movil 10 (10GB por 30dias)",
+      "idServicio": "1260",
+      "idProducto": "8649",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "175.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx"
+      },
+      "servicio": "Valor Internet Movil",
+      "producto": "+Valor Movil 20 (20GB por 30dias)",
+      "idServicio": "1260",
+      "idProducto": "8652",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx"
+      },
+      "servicio": "Valor Internet Movil",
+      "producto": "+Valor Movil 30 (30GB por 30dias)",
+      "idServicio": "1260",
+      "idProducto": "8655",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "400.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx"
+      },
+      "servicio": "Valor Internet Movil",
+      "producto": "+Valor Movil 5 (5GB por 30dias)",
+      "idServicio": "1260",
+      "idProducto": "8646",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx"
+      },
+      "servicio": "Valor Internet Movil",
+      "producto": "+Valor Movil 50 (50GB por 30dias)",
+      "idServicio": "1260",
+      "idProducto": "8658",
+      "idCatTipoServicio": "19",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Telefonia Movil",
+      "producto": "Valor 100",
+      "idServicio": "1257",
+      "idProducto": "8694",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Telefonia Movil",
+      "producto": "Valor 110",
+      "idServicio": "1257",
+      "idProducto": "9396",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "110.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Telefonia Movil",
+      "producto": "Valor 150",
+      "idServicio": "1257",
+      "idProducto": "9390",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Telefonia Movil",
+      "producto": "Valor 200",
+      "idServicio": "1257",
+      "idProducto": "8697",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Telefonia Movil",
+      "producto": "Valor 250",
+      "idServicio": "1257",
+      "idProducto": "8718",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "250.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Telefonia Movil",
+      "producto": "Valor 30",
+      "idServicio": "1257",
+      "idProducto": "8688",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion comunicate con Atencion a Clientes Valor Telecom al 8008004262, via WhatsApp al 221 461 5995, o por correo electronico en contacto@valortelecom.com.mx "
+      },
+      "servicio": "Valor Telefonia Movil",
+      "producto": "Valor 55",
+      "idServicio": "1257",
+      "idProducto": "8691",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "55.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $100",
+      "idServicio": "104",
+      "idProducto": "265",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $150",
+      "idServicio": "104",
+      "idProducto": "266",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $20",
+      "idServicio": "104",
+      "idProducto": "261",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "20.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $200",
+      "idServicio": "104",
+      "idProducto": "267",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $250",
+      "idServicio": "104",
+      "idProducto": "5746",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "250.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $30",
+      "idServicio": "104",
+      "idProducto": "262",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $300",
+      "idServicio": "104",
+      "idProducto": "268",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $40",
+      "idServicio": "104",
+      "idProducto": "263",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "40.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $50",
+      "idServicio": "104",
+      "idProducto": "264",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "RECUERDA QUE PUEDES CONSULTAR TU SALDO MARCANDO AL NUMERO DE ATENCION A CLIENTES *ROCK (*7625) desde tu VIRGIN o MARCA *188# DESDE TU VIRGIN."
+      },
+      "servicio": "Virgin Mobile",
+      "producto": "Recarga $500",
+      "idServicio": "104",
+      "idProducto": "269",
+      "idCatTipoServicio": "12",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "true",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 100 Comparte",
+      "idServicio": "696",
+      "idProducto": "9057",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "100.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 150 Comparte",
+      "idServicio": "696",
+      "idProducto": "9060",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "150.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 200",
+      "idServicio": "696",
+      "idProducto": "9054",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "200.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 30",
+      "idServicio": "696",
+      "idProducto": "5728",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "30.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 300 Comparte",
+      "idServicio": "696",
+      "idProducto": "9063",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "300.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 50",
+      "idServicio": "696",
+      "idProducto": "9048",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "50.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 500 Comparte",
+      "idServicio": "696",
+      "idProducto": "9066",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "500.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   },
+   {
+      "legend": {
+         "cdata": "Para cualquier duda o aclaracion con tu recarga marca desde tu WiMo al *711 o al telefono 800 050 9466. Tambien puedes escribir al correo esatencionaclientes@wimotelecom.com"
+      },
+      "servicio": "WiMo Movil",
+      "producto": "WiMo ilimitado 99",
+      "idServicio": "696",
+      "idProducto": "9051",
+      "idCatTipoServicio": "13",
+      "tipoFront": "1",
+      "hasDigitoVerificador": "false",
+      "precio": "99.0",
+      "showAyuda": "false",
+      "tipoReferencia": "a"
+   }
+]
